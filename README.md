@@ -1,6 +1,11 @@
-### Hello there 👋
+### Hello there 
 
-I am Sam Grant, a physicist from the U.K. The repositories below contain code written for my Ph.D. research on the Muon g-2 experiment at Fermilab. 
+I am *Samuel Grant*, a physicist and programmer from the U.K. The repositories below contain code written for my Ph.D. research at the Fermilab Muon g-2 experiment. 
+
+- EDM
+- ReadNTup
+- RadialField
+- Tex
 
 <!--
 **sam-grant/sam-grant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
