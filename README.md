@@ -11,6 +11,8 @@ I am **Samuel Grant**, a physicist from the U.K. The repositories below mostly c
 
 - [RadialField](https://github.com/sam-grant/RadialField): analysis code for estimating the magnitude of the radial component of the Fermilab $g-2$ storage ring magnetic field. Code relating to direct radial field measurements, and toy Monte Carlo measurements, can be found in [EDM](https://github.com/sam-grant/EDM). 
 
+![alt text](https://github.com/sam-grant/sam-grant/files/9823223/BrTempOverlayRun1.pdf)
+
 - [Tex](https://github.com/sam-grant/Tex): LaTeX code, including my Ph.D. thesis and various other things. 
 
 - [LowDCAs](https://github.com/sam-grant/LowDCAs), [LowDCAs_v2](https://github.com/sam-grant/LowDCAs_v2), and [LowDCAs_v3](https://github.com/sam-grant/LowDCAs_v3): work on improvements to the g-2 particle tracking algorithm, with a focus on tracks which pass the sense-wire at a low 'distance of closest approach'. 
