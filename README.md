@@ -1,13 +1,11 @@
 ### Hello there 
 
-I am **Samuel Grant**, a physicist and programmer from the U.K. The repositories below mostly contain code written for my Ph.D. research at the Fermilab Muon $g-2$ experiment. 
+I am **Samuel Grant**, a physicist from the U.K. The repositories below mostly contain code written for my Ph.D. research at the Fermilab Muon $g-2$ experiment. 
 
 - [EDM](https://github.com/sam-grant/EDM): analysis code centred on extracting a muon electric dipole moment (EDM) signal from large datasets. 
 
 ![alt text](https://github.com/sam-grant/sam-grant/files/9822117/FoldedWiggle_70_Run-1a_250MeV_1000_2500_MeV_BQ.pdf)
 ![alt text](https://github.com/sam-grant/sam-grant/files/9822403/S12S18_edmFit_Run-1a_250MeV_1000_2500MeV_randomised_BQ.pdf)
-
-Fermilab $g-2$ storage ring
 
 - [ReadNTup](https://github.com/sam-grant/ReadNTup): code for reading in data in the form of ROOT Ntuples, applying corrections, and producing the analysis level histograms used in [EDM](https://github.com/sam-grant/EDM). 
 
