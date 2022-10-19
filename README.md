@@ -1,6 +1,6 @@
 ### Hello there 
 
-I am **Samuel Grant**, a physicist and programmer from the U.K. The repositories below contain code written for my Ph.D. research at the Fermilab Muon $g-2$ experiment. 
+I am **Samuel Grant**, a physicist and programmer from the U.K. The repositories below mostly contain code written for my Ph.D. research at the Fermilab Muon $g-2$ experiment. 
 
 - [EDM](https://github.com/sam-grant/EDM): analysis code centred on extracting a muon electric dipole moment (EDM) signal from large datasets. 
 
