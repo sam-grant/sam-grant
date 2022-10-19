@@ -13,6 +13,8 @@ I am **Samuel Grant**, a physicist from the U.K. The repositories below mostly c
 
 - [Tex](https://github.com/sam-grant/Tex): LaTeX code, including my Ph.D. thesis and various other things. 
 
+- [LowDCAs](https://github.com/sam-grant/LowDCAs), [LowDCAs_v2](https://github.com/sam-grant/LowDCAs_v2), and [LowDCAs_v3](https://github.com/sam-grant/LowDCAs_v3): work on improvements to the g-2 particle tracking algorithm, with a focus on tracks which pass the sense-wire at a low 'distance of closest approach'. 
+
 <!--
 **sam-grant/sam-grant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
