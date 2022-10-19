@@ -1,6 +1,6 @@
 ### Hello there 
 
-I am *Samuel Grant*, a physicist and programmer from the U.K. The repositories below contain code written for my Ph.D. research at the Fermilab Muon g-2 experiment. 
+I am **Samuel Grant**, a physicist and programmer from the U.K. The repositories below contain code written for my Ph.D. research at the Fermilab Muon g-2 experiment. 
 
 - EDM
 - ReadNTup
