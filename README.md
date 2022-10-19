@@ -10,7 +10,7 @@ I am **Samuel Grant**, a physicist and programmer from the U.K. The repositories
 
 - [RadialField](https://github.com/sam-grant/RadialField): analysis code for estimating the size of radial component Fermilab $g-2$ storage ring magnetic field. Code relating to direct radial field measurements, and toy Monte Carlo measurements, can be found in [EDM](https://github.com/sam-grant/EDM). 
 
-- [Tex](https://github.com/sam-grant/Tex): LaTeX code, containing my Ph.D thesis among other things. 
+- [Tex](https://github.com/sam-grant/Tex): LaTeX code, including my Ph.D. thesis and various other things. 
 
 <!--
 **sam-grant/sam-grant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
