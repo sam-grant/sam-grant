@@ -7,7 +7,7 @@ I am **Samuel Grant**, a physicist and programmer from the U.K. The repositories
 - RadialField
 - Tex
 - 
-[FoldedWiggle_70_Run-1a_250MeV_1000_2500_MeV_BQ.pdf](https://github.com/sam-grant/sam-grant/files/9822117/FoldedWiggle_70_Run-1a_250MeV_1000_2500_MeV_BQ.pdf)
+![alt text](https://github.com/sam-grant/sam-grant/files/9822117/FoldedWiggle_70_Run-1a_250MeV_1000_2500_MeV_BQ.pdf)
 
 <!--
 **sam-grant/sam-grant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
