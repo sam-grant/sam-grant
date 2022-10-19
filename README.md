@@ -15,7 +15,7 @@ I am **Samuel Grant**, a physicist from the U.K. The repositories below mostly c
 
 - [LowDCAs](https://github.com/sam-grant/LowDCAs), [LowDCAs_v2](https://github.com/sam-grant/LowDCAs_v2), and [LowDCAs_v3](https://github.com/sam-grant/LowDCAs_v3): work on improvements to the g-2 particle tracking algorithm, with a focus on tracks which pass the sense-wire at a low 'distance of closest approach'. 
 
-- [EpRatio](https://github.com/sam-grant/EpRatio): studies on using track-cluster matching (identifying common particle hits recorded by two independent detector systems), to cross-check measurements of calorimeter gain variations by taking the ratio of cluster energy, E, and track momentum, p, as a proxy for gain. 
+- [EpRatio](https://github.com/sam-grant/EpRatio): studies on using track-cluster matching (identifying common particle hits recorded by two independent detector systems) to cross-check measurements of calorimeter gain variations by taking the ratio of cluster energy, E, and track momentum, p, as a proxy for gain. 
 
 <!--
 **sam-grant/sam-grant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
