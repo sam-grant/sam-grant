@@ -2,7 +2,7 @@
 
 I am **Samuel Grant**, a physicist and programmer from the U.K. The repositories below contain code written for my Ph.D. research at the Fermilab Muon $g-2$ experiment. 
 
-- [EDM](https://github.com/sam-grant/EDM): analysis code centred on extracting an electric dipole moment (EDM) signal from large datasets. 
+- [EDM](https://github.com/sam-grant/EDM): analysis code centred on extracting a muon electric dipole moment (EDM) signal from large datasets. 
 
 ![alt text](https://github.com/sam-grant/sam-grant/files/9822117/FoldedWiggle_70_Run-1a_250MeV_1000_2500_MeV_BQ.pdf)
 
