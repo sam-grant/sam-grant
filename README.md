@@ -6,7 +6,7 @@ I am **Samuel Grant**, a physicist from the U.K. The repositories below mostly c
 
 ![alt text](https://github.com/sam-grant/sam-grant/files/9822117/FoldedWiggle_70_Run-1a_250MeV_1000_2500_MeV_BQ.pdf)
 
-*High momentum tracks modulated over a 70 µs time period, showing the spin precession oscillation caused by the anomalous magnetic dipole moment of the muon, fitted with a five parameter function. The measured phase of this oscillation is used to fit for the oscillation that would be caused by an EDM.*
+*High momentum tracks modulated over a 70 µs period, showing the spin precession oscillation caused by the anomalous magnetic dipole moment of the muon, fitted with a five-parameter function. The measured phase of this oscillation is used to fit for the oscillation that would be caused by an EDM.*
 
 ![alt text](https://github.com/sam-grant/sam-grant/files/9822403/S12S18_edmFit_Run-1a_250MeV_1000_2500MeV_randomised_BQ.pdf)
 
