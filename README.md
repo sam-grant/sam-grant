@@ -1,6 +1,10 @@
 ### Hello there 
 
-I am **Samuel Grant**, a researcher in high energy physics from the UK. The repositories below mostly contain code written for my PhD research at the Fermilab Muon $g-2$ experiment. 
+I am **Samuel Grant**, a researcher in high energy physics from the UK. 
+
+<!--
+
+The repositories below mostly contain code written for my PhD research at the Fermilab Muon $g-2$ experiment. 
 
 - [EDM](https://github.com/sam-grant/EDM): analysis code centred on extracting a muon electric dipole moment (EDM) signal from large datasets. 
 
@@ -26,7 +30,7 @@ I am **Samuel Grant**, a researcher in high energy physics from the UK. The repo
 
 - [EpRatio](https://github.com/sam-grant/EpRatio): studies on using track-cluster matching (identifying common particle hits recorded by two independent detector systems) to cross-check measurements of calorimeter gain variations by taking the ratio of cluster energy, E, and track momentum, p, as a proxy for gain. 
 
-<!--
+
 **sam-grant/sam-grant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
