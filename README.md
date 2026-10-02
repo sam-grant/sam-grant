@@ -1,6 +1,6 @@
 ### Hello there 
 
-I am **Samuel Grant**, a researcher in high energy physics from the UK. 
+I am **Sam Grant**, a data scientist and particle physicist from the UK. 
 
 <!--
 
